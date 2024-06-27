@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/xXOsielXx/nft-preview-card-component-challenge
+- Solution URL: https://www.frontendmentor.io/solutions/nft-preview-card-component-with-active-states-i-yhNZJVvv
 - Live Site URL: https://xxosielxx.github.io/nft-preview-card-component-challenge
 
 ## My process
